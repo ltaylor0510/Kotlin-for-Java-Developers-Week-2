@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5db7dc67-4939-408e-947c-aa6addada59d" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Mastermind/Task/src/mastermind/evaluateGuess.kt">
+          <provider selected="true" editor-type-id="StudyEditor">
+            <state relative-caret-position="378">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Mastermind/Task/test/MastermindTests.kt">
+          <provider selected="true" editor-type-id="StudyEditor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="-4" />
+    <option name="width" value="1" />
+    <option name="height" value="57" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="Course" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Course">
+        <subPane>
+          <expand>
+            <path>
+              <item name="KotlinMastermind" type="a264ea2a:RootNode" />
+              <item name="KotlinMastermind" type="ed842865:CourseNode" />
+            </path>
+            <path>
+              <item name="KotlinMastermind" type="a264ea2a:RootNode" />
+              <item name="KotlinMastermind" type="ed842865:CourseNode" />
+              <item name="Mastermind" type="d53b8fed:LessonNode" />
+            </path>
+            <path>
+              <item name="KotlinMastermind" type="a264ea2a:RootNode" />
+              <item name="KotlinMastermind" type="ed842865:CourseNode" />
+              <item name="Mastermind" type="d53b8fed:LessonNode" />
+              <item name="Task" type="4928525d:TaskNode" />
+            </path>
+            <path>
+              <item name="KotlinMastermind" type="a264ea2a:RootNode" />
+              <item name="KotlinMastermind" type="ed842865:CourseNode" />
+              <item name="Mastermind" type="d53b8fed:LessonNode" />
+              <item name="Task" type="4928525d:TaskNode" />
+              <item name="src" type="61faebc3:DirectoryNode" />
+            </path>
+            <path>
+              <item name="KotlinMastermind" type="a264ea2a:RootNode" />
+              <item name="KotlinMastermind" type="ed842865:CourseNode" />
+              <item name="Mastermind" type="d53b8fed:LessonNode" />
+              <item name="Task" type="4928525d:TaskNode" />
+              <item name="src" type="61faebc3:DirectoryNode" />
+              <item name="mastermind" type="61faebc3:DirectoryNode" />
+            </path>
+            <path>
+              <item name="KotlinMastermind" type="a264ea2a:RootNode" />
+              <item name="KotlinMastermind" type="ed842865:CourseNode" />
+              <item name="Mastermind" type="d53b8fed:LessonNode" />
+              <item name="Task" type="4928525d:TaskNode" />
+              <item name="test" type="61faebc3:DirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.project.structure.last.selected" value="SDK Location" />
+    <property name="android.project.structure.proportion" value="0.15" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="show.inlinked.gradle.project.popup" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="LEININGEN" />
+      <module name="" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Remote" activateToolWindowBeforeRun="false">
+      <setting name="host" value="" />
+      <setting name="port" value="0" />
+      <setting name="replType" value="0" />
+      <module name="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5db7dc67-4939-408e-947c-aa6addada59d" name="Default Changelist" comment="" />
+      <created>1543255121066</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543255121066</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="-4" width="2560" height="1444" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15234686" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Build" order="7" visible="true" weight="0.3297953" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Task Description" order="6" visible="true" weight="0.32975337" />
+      <window_info anchor="right" id="Gradle" order="7" />
+      <window_info anchor="right" id="Leiningen" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+      <window_info anchor="right" id="REPL" order="11" side_tool="true" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Mastermind/Task/src/mastermind/playMastermind.kt">
+      <provider selected="true" editor-type-id="StudyEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mastermind/Task/test/MastermindTests.kt">
+      <provider selected="true" editor-type-id="StudyEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mastermind/Task/src/mastermind/evaluateGuess.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="378">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
