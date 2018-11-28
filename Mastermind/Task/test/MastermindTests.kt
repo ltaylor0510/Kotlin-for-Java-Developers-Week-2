@@ -28,6 +28,12 @@ class MastermindTests {
     @Test
     fun testWrongPositions() = testEvaluation("DAEF", "FECA", 0, 3)
 
+    @Test
+    fun testFromSubmission() = testEvaluation("ADFE", "AABC", 1, 0)
+
+    @Test
+    fun testFromSubmission2() = testEvaluation("CFDF", "FCCD", 0, 3)
+
 
 //     repeated letters
     @Test

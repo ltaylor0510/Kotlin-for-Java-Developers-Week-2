@@ -1,5 +1,7 @@
 package mastermind
 
+import kotlin.math.min
+
 data class Evaluation(val rightPosition: Int, val wrongPosition: Int)
 
 fun evaluateGuess(secret: String, guess: String): Evaluation {
@@ -17,5 +19,7 @@ fun checkLetterPositionMatches(secret: String, guess: String): Int {
 }
 
 fun checkLetterMatches(secret: String, guess: String): Int {
-    return guess.fold(0) { acc, char -> if (secret.contains(char)) acc + 1 else acc }
+    return (secret + guess).toCharArray().toSet().joinToString("").sumBy { char -> min(secret.count { it == char }, guess.count { it == char }) }
 }
+
+

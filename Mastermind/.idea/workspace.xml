@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3507c370-a017-46df-9e56-cbcbd0b49407" name="Default Changelist" comment="" />
+    <list default="true" id="3507c370-a017-46df-9e56-cbcbd0b49407" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.gradle/4.10/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../.gradle/4.10/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gradle/4.10/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../.gradle/4.10/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/study_project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/study_project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task/src/mastermind/evaluateGuess.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Task/src/mastermind/evaluateGuess.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task/test/MastermindTests.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Task/test/MastermindTests.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Mastermind/mastermind/EvaluateGuessKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mastermind/mastermind/EvaluateGuessKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Mastermind/mastermind/Evaluation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mastermind/mastermind/Evaluation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/Mastermind/mastermind/MastermindTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/Mastermind/mastermind/MastermindTests.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +26,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/Task/test/MastermindTests.kt">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="720">
-                  <caret line="40" selection-start-line="40" selection-end-line="40" />
+                <state relative-caret-position="72">
+                  <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
                   <folding>
                     <element signature="e#20#106#0" expanded="true" />
                   </folding>
@@ -36,8 +47,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/Task/src/mastermind/evaluateGuess.kt">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="270">
-                  <caret line="15" column="72" selection-start-line="15" selection-start-column="72" selection-end-line="15" selection-end-column="72" />
+                <state relative-caret-position="450">
+                  <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
                 </state>
               </provider>
             </entry>
@@ -46,12 +57,15 @@
       </split-second>
     </splitter>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
-        <option value="$PROJECT_DIR$/Task/src/mastermind/evaluateGuess.kt" />
         <option value="$PROJECT_DIR$/Task/test/MastermindTests.kt" />
+        <option value="$PROJECT_DIR$/Task/src/mastermind/evaluateGuess.kt" />
       </list>
     </option>
   </component>
@@ -59,6 +73,9 @@
     <option name="y" value="-4" />
     <option name="width" value="1" />
     <option name="height" value="57" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -71,9 +88,9 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543312300163" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543356589088" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="TEXT" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -143,33 +160,40 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MastermindTests - 2018.11.27 at 09h 00m 41s.xml">
+    <history-entry file="MastermindTests - 2018.11.27 at 21h 15m 20s.xml">
       <configuration name="MastermindTests" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MastermindTests - 2018.11.27 at 09h 04m 52s.xml">
+    <history-entry file="MastermindTests - 2018.11.27 at 21h 21m 51s.xml">
       <configuration name="MastermindTests" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MastermindTests - 2018.11.27 at 09h 06m 37s.xml">
+    <history-entry file="MastermindTests - 2018.11.27 at 21h 33m 51s.xml">
       <configuration name="MastermindTests" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MastermindTests - 2018.11.27 at 09h 06m 59s.xml">
+    <history-entry file="MastermindTests - 2018.11.27 at 21h 41m 21s.xml">
       <configuration name="MastermindTests" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MastermindTests - 2018.11.27 at 09h 40m 59s.xml">
+    <history-entry file="MastermindTests - 2018.11.27 at 21h 54m 06s.xml">
       <configuration name="MastermindTests" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MastermindTests - 2018.11.27 at 09h 41m 41s.xml">
+    <history-entry file="MastermindTests - 2018.11.27 at 22h 01m 07s.xml">
       <configuration name="MastermindTests" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MastermindTests - 2018.11.27 at 09h 43m 33s.xml">
+    <history-entry file="MastermindTests - 2018.11.27 at 22h 03m 25s.xml">
       <configuration name="MastermindTests" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MastermindTests - 2018.11.27 at 09h 49m 11s.xml">
+    <history-entry file="MastermindTests - 2018.11.27 at 22h 04m 30s.xml">
+      <configuration name="MastermindTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MastermindTests - 2018.11.27 at 22h 05m 03s.xml">
+      <configuration name="MastermindTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MastermindTests - 2018.11.27 at 22h 09m 42s.xml">
       <configuration name="MastermindTests" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-4" width="2560" height="1444" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.16984884" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -180,7 +204,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2843063" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28397873" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -215,23 +239,23 @@
     <entry file="file://$PROJECT_DIR$/out/production/Mastermind/mastermind/EvaluateGuessKt.class">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/Task/src/mastermind/playMastermind.kt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Task/test/MastermindTests.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        <state relative-caret-position="72">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
           <folding>
             <element signature="e#20#106#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Task/src/mastermind/playMastermind.kt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Task/src/mastermind/evaluateGuess.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="72" selection-start-line="15" selection-start-column="72" selection-end-line="15" selection-end-column="72" />
+        <state relative-caret-position="450">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
